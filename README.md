@@ -101,5 +101,7 @@ The dataset includes:
 ---
 
 ## 👨‍💻 Author
+Ismail Wassal (Python)
+Mohamed Abdelghany (Excel)
 
 * Your Name Here
